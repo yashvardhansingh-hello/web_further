@@ -1,29 +1,15 @@
 {
-  "name": "blogexpress",
+  "name": "web_further",
   "version": "1.0.0",
-  "description": "This is an blog on Express.js",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [
-    "project"
-  ],
-  "author": "Yash",
+  "keywords": [],
+  "author": "",
   "license": "ISC",
+  "description": "",
   "dependencies": {
     "express": "^4.18.2"
-  },
-  "devDependencies": {
-    "nodemon": "^2.0.22"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/yashvardhansingh-hello/web_further.git"
-  },
-  "bugs": {
-    "url": "https://github.com/yashvardhansingh-hello/web_further/issues"
-  },
-  "homepage": "https://github.com/yashvardhansingh-hello/web_further#readme"
+  }
 }
